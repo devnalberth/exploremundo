@@ -1,6 +1,6 @@
 // Microatividade 4: Utilização do Widget ListView com ListTile.
 // Executar com: flutter run -t lib/microatividades/micro4_listview.dart
-// Mantém o Material do SDK sem adicionar pacotes, conforme o enunciado.
+// Compatibilidade com o Material integrado ao Flutter SDK.
 // ignore: deprecated_member_use
 import 'package:flutter/material.dart';
 

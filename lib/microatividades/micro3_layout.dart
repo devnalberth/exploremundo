@@ -1,6 +1,6 @@
 // Microatividade 3: Criação de layouts básicos com Row, Column, Icon e Text.
 // Executar com: flutter run -t lib/microatividades/micro3_layout.dart
-// Mantém o Material do SDK sem adicionar pacotes, conforme o enunciado.
+// Compatibilidade com o Material integrado ao Flutter SDK.
 // ignore: deprecated_member_use
 import 'package:flutter/material.dart';
 
