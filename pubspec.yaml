@@ -1,0 +1,25 @@
+name: explore_mundo
+description: Aplicativo da agência de viagens Explore Mundo - Trabalho Prático DGT2812 (Desenvolvimento de Aplicativos Móveis com Flutter).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Imagens dos destinos (Passo 8 do roteiro).
+  # Para usar fotos reais, basta substituir os arquivos mantendo os mesmos nomes.
+  assets:
+    - images/
