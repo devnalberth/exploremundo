@@ -44,8 +44,8 @@ test/widget_test.dart          # Testes de widget
 Pré-requisitos: Flutter SDK 3.x, Android Studio (ou VS Code) e um emulador.
 
 ```bash
-git clone https://github.com/devnalberth/explore-mundo.git
-cd explore-mundo
+git clone https://github.com/devnalberth/exploremundo.git
+cd exploremundo
 flutter create --project-name explore_mundo .   # gera as pastas android/ios/web
 flutter pub get
 flutter run
